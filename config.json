@@ -1,0 +1,14 @@
+{
+  "min_area": 100,
+  "max_monthly": 70000,
+  "bbox": [14.389, 50.091, 14.435, 50.111],
+  "streets": ["Jugoslávských partyzánů", "Lotyšská", "N. A. Někrasova", "Terronská", "Českomalínská", "Rooseveltova", "Charlese de Gaulla", "V. P. Čkalova", "Národní obrany", "Eliášova", "Jaselská", "Bubenečská", "dr. Zikmunda Wintra", "Pod Kaštany", "Pelléova", "Slavíčkova", "Muchova", "Na Hutích", "Dejvická", "Milady Horákové", "Na Valech", "Hradčanská", "Badeniho", "Pětidomí", "U Zeměpisného ústavu", "U Sparty", "Korunovační", "Jana Zajíce", "Havanská", "Čechova", "Na Výšinách", "Ovenecká", "Malířská", "Sochařská", "Šmeralova", "Sládkova", "U Studánky", "Letenské náměstí", "Letohradská", "Nad Štolou", "Kostelní", "Františka Křížka", "Kamenická", "Dobrovského", "Veletržní", "U Letenského sadu"],
+  "sources": {
+    "sreality": ["https://www.sreality.cz/hledani/byty?region=praha&plocha-od=100&cena-do=70000"],
+    "bezrealitky": ["https://www.bezrealitky.cz/vypis/nabidka-pronajem/byt/praha-bubenec", "https://www.bezrealitky.cz/vypis/nabidka-pronajem/byt/praha-hradcany", "https://www.bezrealitky.cz/vypis/nabidka-pronajem/byt/praha-holesovice"],
+    "svoboda": ["https://svoboda-williams.com/pronajem/byty/praha-6/bubenec", "https://svoboda-williams.com/pronajem/byty/praha-7/bubenec", "https://svoboda-williams.com/pronajem/byty/praha-6/hradcany", "https://svoboda-williams.com/pronajem/byty/praha-7/holesovice"],
+    "idnes": ["https://reality.idnes.cz/s/pronajem/byty/?s-l=CAST_OBCE-490024", "https://reality.idnes.cz/s/pronajem/byty/praha-6/", "https://reality.idnes.cz/s/pronajem/byty/praha-7/"]
+  },
+  "max_pages_per_search": 40,
+  "max_alerts_per_run": 12
+}
