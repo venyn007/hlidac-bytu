@@ -3,7 +3,7 @@
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-n-a-nekrasova/2511282252": {
       "signature": "d036ebb12369b6dedfa1176f3fd66484aeeeaff3129f8f50cef51363da1f0958",
       "rent": 49900,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-bubenec-lotysska/903549004": {
       "signature": "34bc2cb43f6bbc463fbe784177248b1bcd810b3d3c79018893c1e0a2f2334b7e",
@@ -13,34 +13,34 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/1345847372": {
       "signature": "3eb3bd11558ceba41cae5a8d0681a9d0437dc78b9b0c1b875bcbba6e9fcbcfce",
       "rent": 60000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-ovenecka/3737485388": {
       "signature": "15d07b9e8986d52111781bdb3408f143a948f7820b4c0f324c3c79cc8fbc7f57",
       "rent": 40000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-eliasova/924848204": {
       "signature": "9ac9989571cbfb0bf9db57b567db73f384e11f9511f58385ab8f2d1adbc277a8",
       "rent": 55000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/1581191244": {
       "signature": "0662de31831166519d452055fcc8d117167757d23f5e6e291707edd07e442436",
       "rent": 60000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-hradcany-na-valech/4006551628": {
       "signature": "fd387634db837dd7e90d699cf604dcaabfd37fe91dd1e261c5501b9ae7f07eb7",
       "rent": 58000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-dr-zikmunda-wintra/3622309964": {
       "signature": "6e39d16eec00c8328f694b8ee2db0f0e43e3ef2c45ac8c371dfb6de7b5b892ff",
       "rent": 39900,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-cs-armady/2577862732": {
@@ -52,7 +52,7 @@
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-dr-zikmunda-wintra/119144524": {
       "signature": "25421fc84585711e176a9c6e8a0b1246f08114dca1a5179eefbc2f3cfdb7d53b",
       "rent": 47000,
-      "checked_at": "2026-10-27T09:16:36.940495+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-letenske-namesti/2340298828": {
       "signature": "57c195cb5f13b8509468b362547d8fe2f8412b953753277a0eec3364d81f3ebc",
@@ -62,7 +62,7 @@
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-holesovice-milady-horakove/3019837516": {
       "signature": "0faeae044922dc8d8d5dbb9dc22734fc82a009b11e474564e18c976536a7359c",
       "rent": 45000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-muchova/3831828556": {
@@ -74,42 +74,42 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-v-p-ckalova/2591195212": {
       "signature": "6eb2dd0ca29df59e73b07c39015e620ad34fb9671a8ca5e652019226e16dcc98",
       "rent": 37000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-pod-kastany/11866188": {
       "signature": "6e9d412d24d2c60a98bc579435e75cb544cb46a4226c2a3031ba32c407c6bb6e",
       "rent": 38000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-holesovice-milady-horakove/2765561932": {
       "signature": "a420d3a468696a19f6f833dc16a76766b9380a4510d78c2030c324bfb80b1b51",
       "rent": 40000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-milady-horakove/1584341068": {
       "signature": "cb909ef0218bf9b6f9cc71c5c2a8b8c6cea386aa4e4af67c1d73529a7bdd7611",
       "rent": 37000,
-      "checked_at": "2026-10-28T14:54:01.177271+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-socharska/130945100": {
       "signature": "3b6edfaf4cfc0a15b58349a5c7354aadafd7511a58a7292d32243e848884e8ca",
       "rent": 34500,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-bubenecska/356388940": {
       "signature": "d4be0ebc213d1118504d8244e33b1aadaad6bf579ebc958a9dfbb3ae26a3b32f",
       "rent": 41900,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-bubenecska/1865289804": {
       "signature": "a03904bbdf187daeaa0b0dc56d6ea98236d4a73f25698f1aec566a970f1fc681",
       "rent": 39000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/213696588": {
@@ -120,42 +120,42 @@
     "https://www.bezrealitky.cz/nemovitosti-byty-domy/1072681-nabidka-pronajem-bytu-ceskomalinska-praha": {
       "signature": "1455790d56a0989af93188f6da29634729edcbde27a4dc7eac37ae4d0db51253",
       "rent": 32500,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://svoboda-williams.com/pronajem/byty/detail/34172-eliasova": {
       "signature": "18a93575f17bdbc5d5a4ffd4de595db828d53177d22311c49cad6ce3cdeb21f3",
       "rent": 55000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://svoboda-williams.com/pronajem/byty/detail/115115-na-valech": {
       "signature": "117db18298b27490dd3e2b642aa23edaeb7c6db8a140dcfa1c790e1c6b2e5b03",
       "rent": 60000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-ovenecka/6acf92b59cd0fa3396024a0c/": {
       "signature": "4ee0eb2b403937056ac65ea42a19de4b35f357b4041a3afa71ec0748dcae7935",
       "rent": 40000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-dr-zikmunda-wintra/6ac5fc9685c9e13559007042/": {
       "signature": "6a8da700c5bdc6b70fdefe43496be096c4219feb7ee25a42bfb2ecbaa7eb8261",
       "rent": 39900.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-dr-zikmunda-wintra/6ad869649f17aa0989033c63/": {
       "signature": "c2d55707a6c3835c99bb22aa1d1064807d0faa51cf55e4751084cc3c0ebd2b3d",
       "rent": 47000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-letenske-namesti/6ab129c39d083e82ee089f9b/": {
       "signature": "a9829c9fff1ba45ea60077abe1a7bb58a02b00410b18480a3a1af50d1629a974",
       "rent": 44000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6aaff04b75fde59c48098ce2/": {
       "signature": "c6353f17a89a84dacd5f9abfc9e5f3879cab44d9ddaa78d8d185eaca035e60b9",
       "rent": 37000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-socharska/6ac7fb54f2dbf1219900b1b7/": {
       "signature": "1e940da01c9b90da8fe7138a0d12524a98b80be292841c55e51ea7b6260d1543",
@@ -165,69 +165,69 @@
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-bubenecska/6ac79a2837477d7fb4001be9/": {
       "signature": "7a661144ef5f2b9b308597518f8cb0b7909906e0d5ab07917677e5676d7b79d4",
       "rent": 41900.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-bubenecska/6ac799a38eb9c8c3df0b0c56/": {
       "signature": "2f4f4250b6db36cfbc0f29a83333b4445c404b8e7d12f7a318b967f052421930",
       "rent": 39000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-n-a-nekrasova/6ab100e54062a98e29093edf/": {
       "signature": "50e2d2c2199007dff635c5a2cfb4f75e125c510139021278b0bd9faf10e42fc8",
       "rent": 49900.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-havanska/6a5ddd48797190205e0afb1c/": {
       "signature": "1b65127076f428b9ec5c25b9cc1b4b9cc6e1e9426913c054952bed120ae2bd25",
       "rent": 68000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-v-p-ckalova/6a21b074ef7a7fd6cf023e3a/": {
       "signature": "0947772cd321b3286b5555b0eda3742a81f6dc15e1280039f8cf2d5c31021447",
       "rent": 37000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-na-valech/6ab0f812bc3372b5f00f0f2e/": {
       "signature": "92fe98bf2d1a2d29a93f897bf11ebcccce73282896c30b575f028654930bf07b",
       "rent": 58000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-na-valech/6ada2aa5092a8999a10427b5/": {
       "signature": "853c99b290d2492b025c4a413976fbcc8a1beb4c17e98b2e28bb65011b90627f",
       "rent": 60000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-muchova/6ad4865f48715d2d2f0c2195/": {
       "signature": "9f9a2275699d0be1095f50c85fbd0e27fdf47763d9e7a2d501fbbea003dab7bd",
       "rent": 38000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-pod-kastany/6ad69a047d419d864b0c2731/": {
       "signature": "d1fce40eaa396ba23c38a884082a358e64b61ea5c91911156ca64b25f304f99f",
       "rent": 38000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6ac741ad4d0e6be46f001c90/": {
       "signature": "eef9f67051ffbcbb281eff623ecb353d81467d8446db5032eec5f81c236e4399",
       "rent": 45000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-holesovice-milady-horakove/1466826828": {
       "signature": "368e8385461a661896a9d285f5aca5d61007e26e3bff56cf2d63d201039c6b9b",
       "rent": 39900,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-milady-horakove/170324044": {
       "signature": "a936d7d93da0d92495016a395762a30152423428b93a9fdd615d6bf3bf739955",
       "rent": 35000,
-      "checked_at": "2026-10-28T14:54:01.177271+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/5+1/praha-bubenec-v-sadech/2528317516": {
       "signature": "a96aa4302e054771042e33bd2ad9874770422752a1c46ee9a79d9c580d0159de",
       "rent": 62000,
-      "checked_at": "2026-10-28T14:54:01.177271+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-veletrzni/724705356": {
@@ -239,23 +239,23 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-jaselska/632947532": {
       "signature": "44db37d29674d57523e9b2d4a7d17ccc798593b00f4ca63ef5dd201b07bff6f7",
       "rent": 48000,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "uncertain_or_failed"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6a4210f4124d652f9707fc05/": {
       "signature": "488774b1318c5318ecd0858df8e982af81384f9cc15dd1a6df6ca8e6a9cd3fe2",
       "rent": 37000.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-milady-horakove/6adcf2cb0acfd6f5f60acd1d/": {
       "signature": "bc4727156fa794ddf51f09ae22b667a2f20623b24e91ccd6f333779a408f7b6d",
       "rent": 39900.0,
-      "checked_at": "2026-10-28T22:17:14.836258+00:00"
+      "checked_at": "2026-10-29T14:59:02.044223+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-havanska/3081166924": {
       "signature": "58398d34dd6de259c4661dcf3c6b7c6882bb8c4dbadd3aa85d9a8ea90a87ff4d",
       "rent": 45000,
-      "checked_at": "2026-10-27T21:53:31.825347+00:00",
+      "checked_at": "2026-10-29T14:59:02.044223+00:00",
       "notification": "accepted"
     }
   },
@@ -6610,12 +6610,12 @@
   "health": {
     "sreality": {
       "pages": 1,
-      "discovered": 23,
+      "discovered": 26,
       "errors": []
     },
     "bezrealitky": {
       "pages": 3,
-      "discovered": 1,
+      "discovered": 2,
       "errors": []
     },
     "svoboda": {
@@ -6625,9 +6625,9 @@
     },
     "idnes": {
       "pages": 3,
-      "discovered": 63,
+      "discovered": 62,
       "errors": []
     }
   },
-  "last_check": "2026-10-28T22:17:14.836258+00:00"
+  "last_check": "2026-10-29T14:59:02.044223+00:00"
 }
