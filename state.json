@@ -1,9 +1,10 @@
 {
   "seen": {
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-n-a-nekrasova/2511282252": {
-      "signature": "d036ebb12369b6dedfa1176f3fd66484aeeeaff3129f8f50cef51363da1f0958",
-      "rent": 49900,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "signature": "ca6bcbbc8a527ef4e5efd3837cb186d53f88af8a23280778a46d447c7c000dca",
+      "rent": 46990,
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
+      "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-bubenec-lotysska/903549004": {
       "signature": "34bc2cb43f6bbc463fbe784177248b1bcd810b3d3c79018893c1e0a2f2334b7e",
@@ -13,34 +14,34 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/1345847372": {
       "signature": "3eb3bd11558ceba41cae5a8d0681a9d0437dc78b9b0c1b875bcbba6e9fcbcfce",
       "rent": 60000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-ovenecka/3737485388": {
       "signature": "15d07b9e8986d52111781bdb3408f143a948f7820b4c0f324c3c79cc8fbc7f57",
       "rent": 40000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-eliasova/924848204": {
       "signature": "9ac9989571cbfb0bf9db57b567db73f384e11f9511f58385ab8f2d1adbc277a8",
       "rent": 55000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/1581191244": {
       "signature": "0662de31831166519d452055fcc8d117167757d23f5e6e291707edd07e442436",
       "rent": 60000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-hradcany-na-valech/4006551628": {
       "signature": "fd387634db837dd7e90d699cf604dcaabfd37fe91dd1e261c5501b9ae7f07eb7",
       "rent": 58000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-dr-zikmunda-wintra/3622309964": {
       "signature": "6e39d16eec00c8328f694b8ee2db0f0e43e3ef2c45ac8c371dfb6de7b5b892ff",
       "rent": 39900,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-cs-armady/2577862732": {
@@ -52,23 +53,23 @@
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-dr-zikmunda-wintra/119144524": {
       "signature": "25421fc84585711e176a9c6e8a0b1246f08114dca1a5179eefbc2f3cfdb7d53b",
       "rent": 47000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-letenske-namesti/2340298828": {
       "signature": "57c195cb5f13b8509468b362547d8fe2f8412b953753277a0eec3364d81f3ebc",
       "rent": 44000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-holesovice-milady-horakove/3019837516": {
       "signature": "0faeae044922dc8d8d5dbb9dc22734fc82a009b11e474564e18c976536a7359c",
       "rent": 45000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-muchova/3831828556": {
       "signature": "10cb7a78e2baac5d8409f2c5bd2435fa7ebdf5d477406e0c7c345697f404aed5",
       "rent": 38000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-v-p-ckalova/2591195212": {
@@ -80,36 +81,36 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-pod-kastany/11866188": {
       "signature": "6e9d412d24d2c60a98bc579435e75cb544cb46a4226c2a3031ba32c407c6bb6e",
       "rent": 38000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+1/praha-holesovice-milady-horakove/2765561932": {
       "signature": "a420d3a468696a19f6f833dc16a76766b9380a4510d78c2030c324bfb80b1b51",
       "rent": 40000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-milady-horakove/1584341068": {
       "signature": "cb909ef0218bf9b6f9cc71c5c2a8b8c6cea386aa4e4af67c1d73529a7bdd7611",
       "rent": 37000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-socharska/130945100": {
       "signature": "3b6edfaf4cfc0a15b58349a5c7354aadafd7511a58a7292d32243e848884e8ca",
       "rent": 34500,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-bubenec-bubenecska/356388940": {
       "signature": "d4be0ebc213d1118504d8244e33b1aadaad6bf579ebc958a9dfbb3ae26a3b32f",
       "rent": 41900,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-bubenecska/1865289804": {
       "signature": "a03904bbdf187daeaa0b0dc56d6ea98236d4a73f25698f1aec566a970f1fc681",
       "rent": 39000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+1/praha-hradcany-na-valech/213696588": {
@@ -120,42 +121,42 @@
     "https://www.bezrealitky.cz/nemovitosti-byty-domy/1072681-nabidka-pronajem-bytu-ceskomalinska-praha": {
       "signature": "74e780007af01b3f3a66c22bba09933e241da18e23d3079b9ea10daa70c02ad1",
       "rent": 32500,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://svoboda-williams.com/pronajem/byty/detail/34172-eliasova": {
       "signature": "18a93575f17bdbc5d5a4ffd4de595db828d53177d22311c49cad6ce3cdeb21f3",
       "rent": 55000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://svoboda-williams.com/pronajem/byty/detail/115115-na-valech": {
       "signature": "117db18298b27490dd3e2b642aa23edaeb7c6db8a140dcfa1c790e1c6b2e5b03",
       "rent": 60000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-ovenecka/6acf92b59cd0fa3396024a0c/": {
       "signature": "4ee0eb2b403937056ac65ea42a19de4b35f357b4041a3afa71ec0748dcae7935",
       "rent": 40000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-dr-zikmunda-wintra/6ac5fc9685c9e13559007042/": {
       "signature": "6a8da700c5bdc6b70fdefe43496be096c4219feb7ee25a42bfb2ecbaa7eb8261",
       "rent": 39900.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-dr-zikmunda-wintra/6ad869649f17aa0989033c63/": {
       "signature": "c2d55707a6c3835c99bb22aa1d1064807d0faa51cf55e4751084cc3c0ebd2b3d",
       "rent": 47000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-letenske-namesti/6ab129c39d083e82ee089f9b/": {
       "signature": "a9829c9fff1ba45ea60077abe1a7bb58a02b00410b18480a3a1af50d1629a974",
       "rent": 44000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6aaff04b75fde59c48098ce2/": {
       "signature": "c6353f17a89a84dacd5f9abfc9e5f3879cab44d9ddaa78d8d185eaca035e60b9",
       "rent": 37000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-socharska/6ac7fb54f2dbf1219900b1b7/": {
       "signature": "1e940da01c9b90da8fe7138a0d12524a98b80be292841c55e51ea7b6260d1543",
@@ -165,69 +166,69 @@
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-bubenecska/6ac79a2837477d7fb4001be9/": {
       "signature": "7a661144ef5f2b9b308597518f8cb0b7909906e0d5ab07917677e5676d7b79d4",
       "rent": 41900.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-bubenecska/6ac799a38eb9c8c3df0b0c56/": {
       "signature": "2f4f4250b6db36cfbc0f29a83333b4445c404b8e7d12f7a318b967f052421930",
       "rent": 39000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-n-a-nekrasova/6ab100e54062a98e29093edf/": {
       "signature": "50e2d2c2199007dff635c5a2cfb4f75e125c510139021278b0bd9faf10e42fc8",
       "rent": 49900.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-havanska/6a5ddd48797190205e0afb1c/": {
       "signature": "1b65127076f428b9ec5c25b9cc1b4b9cc6e1e9426913c054952bed120ae2bd25",
       "rent": 68000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-v-p-ckalova/6a21b074ef7a7fd6cf023e3a/": {
       "signature": "0947772cd321b3286b5555b0eda3742a81f6dc15e1280039f8cf2d5c31021447",
       "rent": 37000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-na-valech/6ab0f812bc3372b5f00f0f2e/": {
       "signature": "92fe98bf2d1a2d29a93f897bf11ebcccce73282896c30b575f028654930bf07b",
       "rent": 58000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-na-valech/6ada2aa5092a8999a10427b5/": {
       "signature": "853c99b290d2492b025c4a413976fbcc8a1beb4c17e98b2e28bb65011b90627f",
       "rent": 60000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-muchova/6ad4865f48715d2d2f0c2195/": {
       "signature": "9f9a2275699d0be1095f50c85fbd0e27fdf47763d9e7a2d501fbbea003dab7bd",
       "rent": 38000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-6-pod-kastany/6ad69a047d419d864b0c2731/": {
       "signature": "d1fce40eaa396ba23c38a884082a358e64b61ea5c91911156ca64b25f304f99f",
       "rent": 38000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6ac741ad4d0e6be46f001c90/": {
       "signature": "eef9f67051ffbcbb281eff623ecb353d81467d8446db5032eec5f81c236e4399",
       "rent": 45000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-holesovice-milady-horakove/1466826828": {
       "signature": "368e8385461a661896a9d285f5aca5d61007e26e3bff56cf2d63d201039c6b9b",
       "rent": 39900,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-milady-horakove/170324044": {
       "signature": "a936d7d93da0d92495016a395762a30152423428b93a9fdd615d6bf3bf739955",
       "rent": 35000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/5+1/praha-bubenec-v-sadech/2528317516": {
       "signature": "a96aa4302e054771042e33bd2ad9874770422752a1c46ee9a79d9c580d0159de",
       "rent": 62000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-veletrzni/724705356": {
@@ -239,18 +240,18 @@
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-dejvice-jaselska/632947532": {
       "signature": "44db37d29674d57523e9b2d4a7d17ccc798593b00f4ca63ef5dd201b07bff6f7",
       "rent": 48000,
-      "checked_at": "2026-10-29T22:30:06.807041+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "uncertain_or_failed"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-milady-horakove/6a4210f4124d652f9707fc05/": {
       "signature": "488774b1318c5318ecd0858df8e982af81384f9cc15dd1a6df6ca8e6a9cd3fe2",
       "rent": 37000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-milady-horakove/6adcf2cb0acfd6f5f60acd1d/": {
       "signature": "bc4727156fa794ddf51f09ae22b667a2f20623b24e91ccd6f333779a408f7b6d",
       "rent": 39900.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     },
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-havanska/3081166924": {
       "signature": "58398d34dd6de259c4661dcf3c6b7c6882bb8c4dbadd3aa85d9a8ea90a87ff4d",
@@ -261,19 +262,19 @@
     "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec/44171340": {
       "signature": "069ad78f760450269406ad1f7934d91cccac241df324647a104e15d0dc217170",
       "rent": 49000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-smeralova/1609695308": {
       "signature": "609720c85723e4d5d6d667d8ead4ad717b5a83ea50bbed9ec2f336bbd9d939b9",
       "rent": 44000,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00",
+      "checked_at": "2026-10-30T21:58:53.911463+00:00",
       "notification": "accepted"
     },
     "https://reality.idnes.cz/detail/pronajem/byt/praha-7-smeralova/6ae466c3a539e338cc0b1dd5/": {
       "signature": "f53e613bf566e9d84ce98aceb7e14c92052d112ad98598f1ca95c31ff08cccd3",
       "rent": 44000.0,
-      "checked_at": "2026-10-30T14:52:37.650181+00:00"
+      "checked_at": "2026-10-30T21:58:53.911463+00:00"
     }
   },
   "announced": [
@@ -7360,17 +7361,423 @@
       ],
       "url": "https://www.sreality.cz/detail/pronajem/byt/3+kk/praha-bubenec-smeralova/1609695308",
       "rent": 44000
+    },
+    {
+      "identity": [
+        "n. a. nekrasova",
+        127,
+        "4+kk"
+      ],
+      "shingles": [
+        "00628cca9bb5bee3",
+        "00aa7ba703027952",
+        "01bd6113b7c7f554",
+        "02b871c03dc0b571",
+        "02f6cc44586e6b2b",
+        "03348f2931893749",
+        "04a09e87fb75d51f",
+        "04da4587cfd53eb0",
+        "04f3a2f77fe0832d",
+        "094c323dfd5fbb50",
+        "096f44e6d003d5ab",
+        "09dfb27a5ad412b4",
+        "0a9f9f64a6628095",
+        "0b0ea0941e352493",
+        "0b386bd5934f3279",
+        "0b4e57ca7a75583b",
+        "0b821a610f00c69d",
+        "0bf0232ac8083a37",
+        "0c5f2c17f53051cf",
+        "0ccc3eb4aa43b672",
+        "0ce24466dad63424",
+        "0ce6b88796e38e17",
+        "0cec19a2bb0a9a1f",
+        "0cf2f57fab6884ca",
+        "0d499d3785257f5d",
+        "0d5eb0429e1f2447",
+        "0df002652af64536",
+        "0ed128f3944e6d76",
+        "1153c7e6eb47b65d",
+        "1170e7e2ceb980b6",
+        "117b1d94e12997ba",
+        "12aa8206cc48f41f",
+        "139f86941069824c",
+        "13b412be2148a57d",
+        "143955b85be80204",
+        "14b5bb667c4f5c59",
+        "14f80c5359027da4",
+        "1583e5268c771e4a",
+        "15c6c426b0e0adfe",
+        "1699dfcb3edf9b05",
+        "173fdbe01131101b",
+        "18a5da19cb346908",
+        "1968c045819ea6d8",
+        "19a14cd6d7631036",
+        "1a057699ab06c235",
+        "1af4ae0f8969c70a",
+        "1cb3c3ac13cf58ac",
+        "1cc2190fb1efd619",
+        "1cc449e0c3c0e94c",
+        "1ddaf40f4ca05909",
+        "1e13ea14b32960ca",
+        "1fb5780f4e626ef1",
+        "1fc0fac71f507653",
+        "20580465cd1e88a1",
+        "20b6fefeef68d4f7",
+        "23246de973758462",
+        "23fbeab489a43db9",
+        "247bde73925a34fa",
+        "2498021ded37b815",
+        "257e9f02259b8f42",
+        "25d55a794acbeef0",
+        "269c37df05740821",
+        "26aeadcfa3dc717d",
+        "2758f3bfdcc7d290",
+        "2993f7881b79b8d5",
+        "2a6b655d63a86f56",
+        "2bfb0dec8623628f",
+        "2c245a14806ddd6d",
+        "2c96c933af9ffb51",
+        "2cbac10f0004c6f4",
+        "2cf2774c4a47afeb",
+        "2d7b2ba633d2d982",
+        "2dacfe0b04a93c40",
+        "2ddef6c5fbfc9d62",
+        "2fcdb3010a616eaf",
+        "2fe6f287be0dc8bc",
+        "3084af7702497f74",
+        "316a26b127bdd3dd",
+        "316bfeb7f9e5a80a",
+        "31d85505e183c2be",
+        "3273b9252d0a75bc",
+        "32e55cd31f3ee871",
+        "3306748bd826cc5a",
+        "339bc587130793c1",
+        "35889da55a5592db",
+        "3637fd31360bdd54",
+        "37258e095b0725ca",
+        "37311e98f8e48f57",
+        "37340b9d3cd1295f",
+        "3768a532ba65b853",
+        "398aa9bef70e1cb6",
+        "39d13a06f554d086",
+        "3a20b58da0b2b685",
+        "3a51ec3dedfdee48",
+        "3b0fb78866aaa14f",
+        "3b4016463db3631d",
+        "3b82e5d0ad4d16a0",
+        "3bda315c5cd35500",
+        "3c1378a67f88fbf1",
+        "3f5d1db3e9cdc8eb",
+        "3f949ebe3fc4811a",
+        "3fd2b90972127d05",
+        "3ff18a48c17c54aa",
+        "3ffcac643df41206",
+        "402ca73c95044885",
+        "41cfcde1a6065a8c",
+        "43e9319f011d0433",
+        "43f10a3c0bfdc6f7",
+        "443ad77e37209d69",
+        "446032850e7a0130",
+        "4465c2168f456ba5",
+        "451e96cd76226f2e",
+        "45474100e3486de0",
+        "45c436e780463a94",
+        "47b74049bbffad33",
+        "48c724297e480b31",
+        "48d75b764e08007e",
+        "4b0a6d2e2131b063",
+        "4b40469a771a681e",
+        "4c5058d1e614aa9e",
+        "4e624202509d4573",
+        "4f12a94c7dd131a1",
+        "4feefcd677cc156a",
+        "50048edcff0669da",
+        "52128fea3fa52eae",
+        "522a6480eed3a8e5",
+        "52a9b6680d6540cf",
+        "54201f130bccee81",
+        "544c8cb88574614f",
+        "55b4a56bdca24732",
+        "55d8b3984d168827",
+        "56339a3ee6613fcb",
+        "5648e2bbdad990e0",
+        "593976dd3d8baa4f",
+        "595bedea8a87128e",
+        "59d4cf2f43375cb1",
+        "59faf94e3c2f67a1",
+        "5a80934f4712a8b6",
+        "5b196c5fb1507bae",
+        "5b4ef279520f8087",
+        "5b61d6a423ef36a3",
+        "5bfc709c972d5da5",
+        "5d07b9f837393421",
+        "5d50e940ff2da051",
+        "5dcfa2480f65135e",
+        "5ed68d9295a0afcf",
+        "602a693debd822ba",
+        "60d3a0ca5d94647f",
+        "622f4af984d0b9d0",
+        "625a08a478fbe87f",
+        "62a3d87196da29d4",
+        "62bd1e990251dd66",
+        "62c0ac31d26d34b9",
+        "62fb4f0e632623fc",
+        "63141bd91d7e23e2",
+        "638752f8e38a6487",
+        "64ec5598f872e00f",
+        "64fa1f103666886d",
+        "6600480db40b4981",
+        "663d9001eae98823",
+        "664c79ad318616ed",
+        "6684a90ab6a1a949",
+        "66bb7722c3dead3e",
+        "67465e2ba26614b0",
+        "674e850aa0b2f40b",
+        "67528be3b8266190",
+        "68ffb19d961b7d24",
+        "6923cc63a5b3529d",
+        "6a2a9eb96e67ad1a",
+        "6a91f4eb25e01eb4",
+        "6aba88759c093bc4",
+        "6e7ef4d3be7dad6d",
+        "6ea33afe73dfc144",
+        "6ecb248729c8f96f",
+        "6ece6cf78db1c606",
+        "6fe7319b0a7a153b",
+        "6ffd1d24e3c66863",
+        "726d3ec22e471f95",
+        "735de76d2c7886a6",
+        "7440ef3b1a6c0090",
+        "748aaedc48964e1c",
+        "74e0172ae67719a1",
+        "756ecc6340173c4c",
+        "768deaa4f084ce62",
+        "77b0aa523241df67",
+        "7982a907c5ad272a",
+        "79cfd8cf7582b0fc",
+        "7a7d7934a48d29a8",
+        "7a9d7357958408a6",
+        "7ab6cb316b3c53ab",
+        "7b6eb08ed34889a3",
+        "7c9a1341d8764bc0",
+        "7de27002a5463b8b",
+        "7e9b68a6e09455a6",
+        "7ed837194467299b",
+        "7ef469cb9b3f7d02",
+        "7f5720bdb150c1b0",
+        "800a299618d358c2",
+        "80b40aaaf4bc673a",
+        "80b5008202d109a4",
+        "810dc9121b0b290d",
+        "818d5a8996bf56b5",
+        "8286415943da8ea5",
+        "831c63ef9e5964e6",
+        "836fbd77dde0da88",
+        "8429672c2d6c07fc",
+        "855338e1acbb1f59",
+        "859d7825d14121b6",
+        "8662d2c14dec6a52",
+        "878d11581d3e8231",
+        "87b4a70f3feec698",
+        "88025a0f4ff0315e",
+        "884ad4e2e94755c7",
+        "885d39b74e55de08",
+        "8860db17737103ce",
+        "8927462e1709f2af",
+        "896ccbf33745ce8e",
+        "8a453e510925dced",
+        "8a500e1dfb1a902a",
+        "8b7c22a3baa1e8c5",
+        "8bbeda5895acc339",
+        "8cea364e5d613fff",
+        "8d894c23b12317d3",
+        "8da4ab1afb481e4e",
+        "8dcdecc92486e4a8",
+        "8e3ab2bc8789030c",
+        "8e725bcdd15f7e7f",
+        "8f025eeec22d5eb3",
+        "8fb18a5859a2ce5b",
+        "911bad8029234872",
+        "924f11bfdae38737",
+        "92eeae26a38442c1",
+        "937fa3b6651450ec",
+        "93f90004dd05624e",
+        "941e3d9d425b0b91",
+        "94538c94f27f0e30",
+        "956ac44e3e19b52d",
+        "95f56fbfe2157a5e",
+        "9652306dfce6fa06",
+        "975721ed723c26b5",
+        "97900dcd5f35a718",
+        "97bcdb14ca198307",
+        "97c2a47e09051117",
+        "981b0dc36f3189fb",
+        "98a0cceaca3b22d6",
+        "99fbee65fc8c5b82",
+        "9a5e667e6de5994d",
+        "9b8af4ecf12fa8c6",
+        "9d7821e0dc7f9793",
+        "9d99c57e57a411b1",
+        "9e9cb4ada34f0eb7",
+        "a00ccf1147d377f8",
+        "a03687179390d716",
+        "a1502423dae3f61c",
+        "a23185258724e299",
+        "a2353b1ecb39e6df",
+        "a2671eb19d71716c",
+        "a28ab085aa7267ad",
+        "a3701e1fe5786ae1",
+        "a47044063cce9f4c",
+        "a68b70e3959b0ba2",
+        "a75357cf4db5e75e",
+        "a76523526979c286",
+        "a782fd02ae04280d",
+        "a78a29a312b6f834",
+        "a7c5a5af7ce55f64",
+        "a81637313bced1aa",
+        "aa1eef3bf2fb8325",
+        "aabc7d66e9960c1c",
+        "ac94cd4fa862bdcd",
+        "ade3475327b27ca6",
+        "ae92bbaa64c16e01",
+        "af498981cc78bce6",
+        "afff1fbbe85eb12e",
+        "b0cc865d63f4158e",
+        "b1bfdd21e004ee2c",
+        "b1c63ff94cd2f191",
+        "b246bfb0db8da9e2",
+        "b2cb013900befbd8",
+        "b3bb9ed4354ce674",
+        "b3ce9f29b1704838",
+        "b400c05d6df5d4b4",
+        "b4b27c6764b08b9e",
+        "b551d1c1a2f20fd2",
+        "b56192884090e2f5",
+        "b574a0b9eefbe43d",
+        "b586a305de608559",
+        "b62718fb9e49112a",
+        "b6de33f8d4c6b5d4",
+        "b7796ef5c2c4cae2",
+        "b879faa5142a48f7",
+        "b929fc9f65accfb0",
+        "bb3abceae44058ed",
+        "bbd66085b91816b0",
+        "bc8f94f11f13f406",
+        "bd186beed3220fde",
+        "befdc5ccc1ee5758",
+        "bfe07d0927f48136",
+        "bffd1268bcd9b7a4",
+        "c220abf1a9bde085",
+        "c2cf75d4c631c5ad",
+        "c3e8919c50fbe944",
+        "c3f5b4e132ed1c1e",
+        "c481dfeefc29d077",
+        "c54cf77d24210be2",
+        "c57d11b66e06f399",
+        "c5a385e90563363d",
+        "c5b244f992126ce9",
+        "c62111e641020de8",
+        "c62269da4615b6b4",
+        "c624fb5c5c184a48",
+        "c74cad6397a49e5d",
+        "c7b878b81ddb045d",
+        "c8889b9d9c9cbf25",
+        "c90e122a71c745bc",
+        "c99684f3f9645b8e",
+        "c9a38f9f37293084",
+        "ca887f79c66b810b",
+        "ca9a6c8274a01fe6",
+        "cb33ceed9076df8f",
+        "cbd06d9a5ef65eeb",
+        "cc1dcdafc35450e1",
+        "cc62825825b7b6f6",
+        "cd871b909f68de2b",
+        "ce6e0ca6ef2a554e",
+        "ce87892a6a5c89d5",
+        "cf399ab7dc89b6dc",
+        "cffe358e1c2d4878",
+        "d0087f09d6284423",
+        "d068b476b95ce143",
+        "d12a7af483940d31",
+        "d1f7a3a9b9884a30",
+        "d21b58032a324a2a",
+        "d2fed519a78d6e53",
+        "d3b8197ffe9cb9ae",
+        "d3d2e7a676f6653f",
+        "d71ef350ae2a2ce6",
+        "d7ff4a1fdbc5a2de",
+        "d9420a7d01f07f8a",
+        "dac8695738bf0099",
+        "dbc081742813c3e3",
+        "dc6f2ab764a36e8c",
+        "ddab80d339087601",
+        "ddcf55167377cdc5",
+        "de1c322fbe0acf6b",
+        "de4a0574f91387fa",
+        "de4c5d5945fd0f2b",
+        "dfa3a5f0ffec22dd",
+        "e02aea011552a1b7",
+        "e0e3d0ea09870bca",
+        "e3935f607c834936",
+        "e41e41105a47b0b7",
+        "e429ea38647aae8c",
+        "e4de74a9246f83d2",
+        "e50fb30af394d308",
+        "e63d68b251ff8da1",
+        "e6bb87026535414a",
+        "e9340625a7283f65",
+        "e99bcc8dcd01fb01",
+        "eee33ea1e5677a19",
+        "ef15d11f4bcbdf09",
+        "ef39f416c7e1e65e",
+        "ef7cf3932ae7cea9",
+        "f006d255dd1f42a1",
+        "f0154c0e3a6729a6",
+        "f03c5ec85e7ea926",
+        "f0864de8be09b6bc",
+        "f1289c0819f91202",
+        "f1c3366c4da1744e",
+        "f1f6e6f5af2038ba",
+        "f39d896e4265079b",
+        "f40731b1794e71c4",
+        "f58d7911f6b35f65",
+        "f5da746bcae203f1",
+        "f6c7ce6c0615dca8",
+        "f702075ea5fe2eca",
+        "f72807a21e3a8bff",
+        "f75091734abebe9d",
+        "f75316d7867b9ea7",
+        "f7a306d2dd8bc183",
+        "f7c42394348cee61",
+        "f7f2d8bae1d90ca3",
+        "f808dcb2a35da62e",
+        "f9187490d9dcfdb2",
+        "f943c25ff66de7f2",
+        "fa8134d2c47b614f",
+        "fb02f6b6a6c61651",
+        "fbd6c52eb25fa72b",
+        "fc887de4ef152e90",
+        "fc999de1c43975ae",
+        "fde838dd667eb057",
+        "fe2f1ae1e0596567",
+        "feab01750218cc21",
+        "fed97d3fcbe7ab56",
+        "ff767a0a10c8080a"
+      ],
+      "url": "https://www.sreality.cz/detail/pronajem/byt/4+kk/praha-bubenec-n-a-nekrasova/2511282252",
+      "rent": 46990
     }
   ],
   "health": {
     "sreality": {
       "pages": 1,
-      "discovered": 28,
+      "discovered": 27,
       "errors": []
     },
     "bezrealitky": {
       "pages": 3,
-      "discovered": 2,
+      "discovered": 4,
       "errors": []
     },
     "svoboda": {
@@ -7380,9 +7787,9 @@
     },
     "idnes": {
       "pages": 3,
-      "discovered": 64,
+      "discovered": 65,
       "errors": []
     }
   },
-  "last_check": "2026-10-30T14:52:37.650181+00:00"
+  "last_check": "2026-10-30T21:58:53.911463+00:00"
 }
